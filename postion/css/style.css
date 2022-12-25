@@ -10,7 +10,25 @@ text-align: center;
 img {
     width: 100%;
     border-radius: 0 0 15px 15px;
-} 
+}
+span{
+    position: relative;
+    
+    padding-top: 33px;
+    
+
+}
+b{
+    color: #fff;
+    padding: 1px 5px;
+    background-color: blue;
+    border-radius: 5px;
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
+
 nav{
    
     background-color: rgb(26, 26, 52);
@@ -40,7 +58,13 @@ a:hover{
 h1:hover, p:hover{
     background-color: hotpink;
     padding: 20px 0;
-    transition: 3
-    ,s all;
+    transition: 3s all;
     border-radius: 15px;
+}
+.start{
+    float: left;
+    display: inline-block;
+    padding-top:1px ;
+
+
 }
