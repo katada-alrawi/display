@@ -1,0 +1,73 @@
+html{box-sizing: border-box;}
+*, *:before, *:after{ box-sizing: inherit;}
+}
+body{
+    width: 75%;
+    margin: 0 auto;
+   
+}
+*{
+    margin: 0;
+    color: rgb(50, 215, 160);
+    text-align: center;
+    font-size: 25px;
+    border-radius: 5px;
+   
+
+}
+header, footer{
+    background-color: rgb(19, 19, 32);
+    padding: 10px 0;
+}
+header{
+    font-size: 35px;
+}
+.img1{
+    width: 100%;
+    margin: 30px 0;
+
+}
+aside ,.parent{
+    height: 700px;
+    color: rgb(235, 63, 33);
+   
+}
+aside{
+    width: 30%;
+    float: left;
+    background-color: orange;
+}
+.parent{
+
+    width: 70%;
+    float: right;
+}
+main{
+height: 40%;
+background-color: rgb(56, 56, 227);
+color:orange;
+}
+.banner{
+height: 20%;
+background-color: burlywood;
+color: brown;
+}
+.container{
+height: 40%;
+}
+.mg{
+    width: 70%;
+    float: left;
+    height: 100%;
+}
+.ad{
+    background-color: rgb(255, 0, 47);
+    width: 30%;
+    float:right;
+    height: 100%;
+}
+
+footer{
+    clear: both;
+
+}
