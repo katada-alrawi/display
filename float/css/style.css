@@ -1,0 +1,26 @@
+*{
+    font-size: 25px;
+    margin: 0;
+    color: rgb(243, 159, 159);
+    text-align: center;
+    border-radius: 15px;
+
+}
+aside, main{
+    float:left;
+}
+aside{
+    background-color: orange;
+    color: blue;
+    width: 30%;
+    height: 600px;
+}
+main{
+    background-color: lightblue;
+    width: 70%;
+    height: 600px;
+}
+footer, header{
+    background-color: gray;
+    margin: 30px 0;
+}
