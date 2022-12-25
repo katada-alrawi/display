@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    color: rgb(213, 74, 9);
+    background-color: rgb(241, 241, 237);
+    position: relative;
+    border-radius: 15px;
+    width: 170px;
+    bottom: 590px;
+    left: 40%;
+    padding: 20px;
+
+}
+.left{
+    position: absolute;
+    bottom: 95%;
+    left: 93%;
+    font-size: large;
+    border-radius: 15px;
+    background-color: rgb(98, 200, 113);
+    padding: 10px;
+}
+h2{
+    position:fixed;
+    top: 20px;
+    border-radius: 15px;
+    background-color: crimson;
+    color: white;   
+    width: 90px;
+    padding-left: 10px;
+}
+div{
+    position: fixed;
+    top: 40%;
+    color:red;
+    font-size: 50px;
+    left: 45%;
+}
