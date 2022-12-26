@@ -1,6 +1,6 @@
 html{box-sizing: border-box;}
 *, *:before, *:after{ box-sizing: inherit;}
-}
+
 body{
     width: 75%;
     margin: 0 auto;
