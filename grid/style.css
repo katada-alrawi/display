@@ -1,0 +1,31 @@
+*{
+    border-radius: 8px; 
+    background-color: darkblue;
+}
+.contianer{
+    border: 2px solid red;
+    margin: 50px auto;
+    color: wheat;
+    width: 700px;
+    display: grid;
+    grid-template-columns: repeat(5px );
+    grid-template-rows: 1fr;
+    gap: 50px 5px;
+   
+    
+
+}
+.child{
+    text-align: center;
+    padding: 50px;
+    margin: 1px;
+    border: 1px solid;
+    background-color: rgb(224, 135, 20);
+
+}
+.child1{
+    width: 50%;
+   
+    grid-column: 1/6;
+     
+}
